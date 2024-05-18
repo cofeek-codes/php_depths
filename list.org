@@ -1,0 +1,4 @@
+* TODO Depths for today [0/1]
+- [-] 1sem [1/2]
+  - [X] OOP
+  - [ ] A
