@@ -1,4 +1,8 @@
-* TODO Depths for today [0/1]
-- [-] 1sem [1/2]
+* TODO Depths for today
+- [-] 1sem [1/4]
   - [X] OOP
-  - [ ] A
+  - [ ] Select (in college)
+  - [-] MySql+PHP
+    - [X] test
+    - [ ] practice?
+  - [ ] inntofit
