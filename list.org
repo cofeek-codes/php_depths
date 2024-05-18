@@ -1,8 +1,9 @@
 * TODO Depths for today
-- [-] 1sem [1/4]
+- [-] 1sem [2/5]
   - [X] OOP
   - [ ] Select (in college)
   - [-] MySql+PHP
     - [X] test
     - [ ] practice?
   - [ ] inntofit
+  - [X] seeders, migrations, facades
