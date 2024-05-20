@@ -1,9 +1,17 @@
-* TODO Depths for today
-- [-] 1sem [2/5]
+* DONE Depths for today
+CLOSED: [2024-05-20 Mon 15:35]
+- [X] 1sem [5/5]
   - [X] OOP
-  - [ ] Select (in college)
-  - [-] MySql+PHP
+  - [X] Select (in college)
+  - [X] MySql+PHP
     - [X] test
-    - [ ] practice?
-  - [ ] inntofit
+    - [X] practice?
+  - [X] inntofit
   - [X] seeders, migrations, facades
+
+
+* TODO New [/]
+- [ ] dateTime
+- [ ] laravelLoops
+- [ ] education
+  
