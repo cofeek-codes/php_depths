@@ -10,8 +10,8 @@ CLOSED: [2024-05-20 Mon 15:35]
   - [X] seeders, migrations, facades
 
 
-* TODO New [2/3]
+* TODO New [3/3]
 - [X] dateTime
 - [X] laravelLoops
-- [ ] education
+- [X] education
   
